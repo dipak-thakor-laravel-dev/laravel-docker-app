@@ -1,0 +1,2 @@
+stop:
+   docker-compose stop 
